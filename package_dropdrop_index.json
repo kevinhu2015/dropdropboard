@@ -7,14 +7,14 @@
       "platforms":
       [
         {
-          "name": "DropDrop Boards",
+          "name": "DropDrop Board",
           "architecture": "samd",
           "version": "0.0.1",
           "category": "Contributed",
-          "url": "https://github.com/kevinhu2015/dropdropboard/blob/main/custom-boards.zip",
-          "archiveFileName": "custom-boards.zip",
-          "checksum": "SHA-1:188f950f3844d5df15c1f7c6f73363d7c9e9e78d",
-          "size": "7477943",
+          "url": "https://github.com/kevinhu2015/dropdropboard/blob/main/Dropdrop-0.0.1.zip",
+          "archiveFileName": "Dropdrop-0.0.1.zip",
+          "checksum": "SHA-1:f0627755f8553a8f838802ad3e4069070acf1ee5",
+          "size": "7461749",
           "boards": [
             {
               "name": "Dropdrop M0"
