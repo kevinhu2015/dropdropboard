@@ -2,24 +2,22 @@
   "packages":
   [
     {
-      "name": "robohat",
-      "maintainer": "Robotics Masters",
-      "websiteURL": "https://roboticsmasters.co",
-      "email" : "techsupport@roboticsmasters.co",
+      "name": "dropdrop",
+      "maintainer": "Doc Hu",
       "platforms":
       [
         {
-          "name": "Robo HAT Boards",
+          "name": "DropDrop Boards",
           "architecture": "samd",
-          "version": "0.0.12",
+          "version": "0.0.1",
           "category": "Contributed",
           "url": "https://github.com/robotics-masters/mm1-hat-arduino/raw/master/custom_board/RoboHat-0.0.12.zip",
           "archiveFileName": "RoboHat-0.0.12.zip",
-          "checksum": "SHA-256:e6a4c0b37a90a922777556d3af04c0396d9fc7fc47dfa5220f3d3da2410a3bf1",
-          "size": "2381077",
+          "checksum": "SHA-1:188f950f3844d5df15c1f7c6f73363d7c9e9e78d",
+          "size": "7477943",
           "boards": [
             {
-              "name": "Robo HAT MM1"
+              "name": "Dropdrop M0"
             }
           ],
           "toolsDependencies":
